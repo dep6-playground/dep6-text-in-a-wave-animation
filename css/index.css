@@ -1,8 +1,12 @@
 #stage {
-  height: 250px;
+  height: 525px;
   background-color: greenyellow;
-  color: greenyellow;
   margin-top: 10px;
+  position: relative;
+}
+
+.char {
+  position: absolute;
 }
 
 /*# sourceMappingURL=index.css.map */
